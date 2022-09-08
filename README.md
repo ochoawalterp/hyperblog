@@ -9,5 +9,5 @@ Un blog increíble
  * Trucos muy locos del profesor
  * Las personalidades múltiples de Freddy
  * Creado por el increible Walter oChoa
- 
+ * Incluye ejemplos en windos, linux, mac. 
  Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para ejemplos. Sillegas acá NO TE LO TOMES ENSERIO y mejor ve a ver el curso.
